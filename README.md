@@ -23,6 +23,11 @@ See this repo for Docker and SQL
 https://github.com/sylviachadha/rilca/blob/master/Tables.sql
 
 
+Reverse engineer MariaDB to Django models.
+
+https://docs.djangoproject.com/en/1.11/howto/legacy-databases/
+
+
 # Staging/Preview
 
 ## Docker / Docker Compose
